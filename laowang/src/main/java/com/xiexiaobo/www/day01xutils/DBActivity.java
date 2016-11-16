@@ -83,6 +83,7 @@ public class DBActivity extends AppCompatActivity {
                     e.printStackTrace();
                 }
                 break;
+            //nihao
             case R.id.bt_db_query:
                 try {
                     // 根据条件去查找
